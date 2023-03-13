@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 html, body {
@@ -46,7 +47,7 @@ main {
 }
 
 #redes-sociais img {
-    width: 50px;
+    width: 30px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.519);
